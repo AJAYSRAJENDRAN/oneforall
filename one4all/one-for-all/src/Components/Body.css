@@ -1,0 +1,19 @@
+.body {
+  margin-top: 250px;
+  margin-left: 50px;
+}
+.body h1 {
+  font-size: 320%;
+  font-style: initial;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+@media (max-width: 768px) {
+  /* Styles for screens up to 768px width */
+  /* Add your responsive styles here */
+}
+
+@media (max-width: 480px) {
+  /* Styles for screens up to 480px width */
+  /* Add your responsive styles here */
+}
